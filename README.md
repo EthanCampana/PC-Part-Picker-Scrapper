@@ -1,5 +1,5 @@
 # PC-Part-Picker-Scrapper
-AWeb Scraping bot for PCPartPicker.com 
+A Web Scraping bot for PCPartPicker.com 
 
 
 Features:
